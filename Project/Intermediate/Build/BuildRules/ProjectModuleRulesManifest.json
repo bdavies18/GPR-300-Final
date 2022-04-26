@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\bdavies\\Documents\\School\\Champlain\\Spring2022\\GPR-300\\GPR-300-Final\\Project\\Source\\Project\\Project.Build.cs",
-		"C:\\Users\\bdavies\\Documents\\School\\Champlain\\Spring2022\\GPR-300\\GPR-300-Final\\Project\\Source\\Project.Target.cs",
-		"C:\\Users\\bdavies\\Documents\\School\\Champlain\\Spring2022\\GPR-300\\GPR-300-Final\\Project\\Source\\ProjectEditor.Target.cs"
+		"E:\\Repositories\\gpr300\\Final\\Project\\Source\\Project\\Project.Build.cs",
+		"E:\\Repositories\\gpr300\\Final\\Project\\Source\\Project.Target.cs",
+		"E:\\Repositories\\gpr300\\Final\\Project\\Source\\ProjectEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
