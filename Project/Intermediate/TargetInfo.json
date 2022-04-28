@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Project",
-			"Path": "C:\\Users\\bdavies\\Documents\\School\\Champlain\\Spring2022\\GPR-300\\GPR-300-Final\\Project\\Source\\Project.Target.cs",
+			"Path": "C:\\Users\\schoe\\OneDrive\\Desktop\\Graphics II Final\\GPR-300-Final\\Project\\Source\\Project.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ProjectEditor",
-			"Path": "C:\\Users\\bdavies\\Documents\\School\\Champlain\\Spring2022\\GPR-300\\GPR-300-Final\\Project\\Source\\ProjectEditor.Target.cs",
+			"Path": "C:\\Users\\schoe\\OneDrive\\Desktop\\Graphics II Final\\GPR-300-Final\\Project\\Source\\ProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
