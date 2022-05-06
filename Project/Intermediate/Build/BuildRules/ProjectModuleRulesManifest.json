@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\schoe\\OneDrive\\Desktop\\Graphics II Final\\GPR-300-Final\\Project\\Source\\Project\\Project.Build.cs",
-		"C:\\Users\\schoe\\OneDrive\\Desktop\\Graphics II Final\\GPR-300-Final\\Project\\Source\\Project.Target.cs",
-		"C:\\Users\\schoe\\OneDrive\\Desktop\\Graphics II Final\\GPR-300-Final\\Project\\Source\\ProjectEditor.Target.cs"
+		"C:\\Users\\NealW\\source\\repos\\Champlain\\InterGraphics\\Fucking stupid ass git\\GPR-300-Final\\Project\\Source\\Project\\Project.Build.cs",
+		"C:\\Users\\NealW\\source\\repos\\Champlain\\InterGraphics\\Fucking stupid ass git\\GPR-300-Final\\Project\\Source\\Project.Target.cs",
+		"C:\\Users\\NealW\\source\\repos\\Champlain\\InterGraphics\\Fucking stupid ass git\\GPR-300-Final\\Project\\Source\\ProjectEditor.Target.cs"
 	],
-	"EngineVersion": "4.27.0"
+	"EngineVersion": "4.27.2"
 }

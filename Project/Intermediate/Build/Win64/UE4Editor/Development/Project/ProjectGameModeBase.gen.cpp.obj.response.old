@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I E:\Repositories\gpr300\Final\Project\Intermediate\Build\Win64\UE4Editor\Inc\Project
-/I E:\Repositories\gpr300\Final\Project\Source
+/I "C:\Users\schoe\OneDrive\Desktop\Graphics II Final\GPR-300-Final\Project\Intermediate\Build\Win64\UE4Editor\Inc\Project"
+/I "C:\Users\schoe\OneDrive\Desktop\Graphics II Final\GPR-300-Final\Project\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -256,18 +256,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "E:\Programs\Visual Studio\VC\Tools\MSVC\14.28.29910\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"E:\Repositories\gpr300\Final\Project\Intermediate\Build\Win64\ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\Repositories\gpr300\Final\Project\Intermediate\Build\Win64\ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\Repositories\gpr300\Final\Project\Intermediate\Build\Win64\ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\Repositories\gpr300\Final\Project\Intermediate\Build\Win64\UE4Editor\Inc\Project\ProjectGameModeBase.gen.cpp"
-/FI"E:\Repositories\gpr300\Final\Project\Intermediate\Build\Win64\UE4Editor\Development\Project\Definitions.Project.h"
-/Fo"E:\Repositories\gpr300\Final\Project\Intermediate\Build\Win64\UE4Editor\Development\Project\ProjectGameModeBase.gen.cpp.obj"
+/FI"C:\Users\schoe\OneDrive\Desktop\Graphics II Final\GPR-300-Final\Project\Intermediate\Build\Win64\ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\schoe\OneDrive\Desktop\Graphics II Final\GPR-300-Final\Project\Intermediate\Build\Win64\ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\schoe\OneDrive\Desktop\Graphics II Final\GPR-300-Final\Project\Intermediate\Build\Win64\ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\schoe\OneDrive\Desktop\Graphics II Final\GPR-300-Final\Project\Intermediate\Build\Win64\UE4Editor\Inc\Project\ProjectGameModeBase.gen.cpp"
+/FI"C:\Users\schoe\OneDrive\Desktop\Graphics II Final\GPR-300-Final\Project\Intermediate\Build\Win64\UE4Editor\Development\Project\Definitions.Project.h"
+/Fo"C:\Users\schoe\OneDrive\Desktop\Graphics II Final\GPR-300-Final\Project\Intermediate\Build\Win64\UE4Editor\Development\Project\ProjectGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
